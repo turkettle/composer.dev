@@ -1,0 +1,20 @@
+{
+    "name": "aston/composer",
+    "description": "Un petit site géré par Composer.",
+    "type": "project",
+    "require": {
+        "monolog/monolog": "^1.22",
+        "twig/twig": "^1.29",
+        "respect/validation": "^1.1"
+    },
+    "require-dev": {
+        "raveren/kint": "^1.0",
+        "phpro/grumphp": "^0.11.0"
+    },
+    "authors": [
+        {
+            "name": "Aston Ecole",
+            "email": "aston@example.com"
+        }
+    ]
+}
